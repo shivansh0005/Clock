@@ -1,0 +1,7 @@
+1)Margin-Screen se container Ka distance
+2)Display  Flex allows in horizontal arrangmengt of items in the container
+3)Flex direction column allows column wise arrangment of contaienr elements
+4)height :100vh-So when you use "height: 100vh," you're making sure that whatever is inside that box will fit perfectly and take up all the available space from the top to the bottom of your screen, no matter how big or small your screen is.
+ 5)Justify content -"justify-content: center" is used to  control downward |
+                           V        
+ direction and center elements within a container.On the other hand, "align-items: center" is used to -> align and center elements within a container.
